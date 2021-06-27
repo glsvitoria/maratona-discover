@@ -67,3 +67,4 @@
 ## Autor
 - Linkedin - [Guilherme Vitória](https://www.linkedin.com/in/glsvitoria/)
 - GitHub - [glsvitoria](https://github.com/glsvitoria)
+- Instagram - [glsvitoria](https://www.instagram.com/glsvitoria/)
