@@ -6,6 +6,8 @@
 ## Um pouco do Projeto:
 
 ➡ Projeto desenvolvido na Maratona Discover de Front-End da Rocketseat
+
+  
 ➡ Site para gerenciamento de dinheiro, podendo adicionar transações de valores positivos ou negativos e ao final poder receber o resumo das transações somadas e controlar o dinheiro que você ganha e gasta
 
 
@@ -17,7 +19,6 @@
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [Processo](#processo)
-  - [Contruido com](#construido-com)
   - [Tecnologia utilizadas](#tecnologias-utilizadas)
   - [O que eu aprendi](#oque-eu-aprendi)
   - [Continuação do desenvolvimento](#continuacao-do-desenvolvimento)
